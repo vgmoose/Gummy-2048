@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gummy 2048</string>
+<string name="dummy_button">ดู</string>
+<string name="reset_button">ทำซ้ำ</string>
+ <string name="size_button">ขนาด</string>
+   <string name="hs_button">สถิติ</string>
+     <string name="dismiss">ยกเลิก</string>
+      <string name="showad">ซ่อนโฆษณา</string>
+      <string name="review">อัตรา App</string>
+    <string name="gameover">เกมกว่า</string>
+<string name="gameovertext">ไม่มีการเคลื่อนไหวไปได้มากขึ้นที่สามารถทำมี</string>
+    <string name="congrats">ขอแสดงความยินดี</string>
+ <string name="gamewintext">คุณไม่ได้! ว้าว</string>
+    <string name="newscore">ที่คะแนนสูงใหม่</string>
+     <string name="warning">คำเตือน!</string>
+   <string name="resettext">นี้จะเริ่มต้นเกมในความคืบหน้า คุณแน่ใจว่าคุณต้องการที่จะดำเนินการต่อ</string>
+    <string name="stattext">สถิติ</string>
+
+
+
+
+    <string-array name="display">
+        <item>Mode 1</item>
+        <item>Mode 2</item>
+        <item>Mode 3</item>
+        <item>Mode 4</item>
+        <item>Mode 5</item>
+        <item>Mode 6</item>
+        <item>Mode 7</item>
+        <item>Mode 8</item>
+    </string-array>
+
+</resources>

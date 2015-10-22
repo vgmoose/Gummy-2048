@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pega 2048</string>
+    <string name="dummy_button">Modo</string>
+    <string name="reset_button">Rever</string>
+    <string name="size_button">Magni</string>
+    <string name="hs_button">Estats</string>
+    <string name="dismiss">Despedir</string>
+    <string name="showad">Ocultar Anuncio</string>
+    <string name="review">Aplicación Tasa</string>
+    <string name="gameover">Más de Juego</string>
+    <string name="gameovertext">No hay más movimientos posibles que se pueden hacer.</string>
+    <string name="congrats">¡Felicidades!</string>
+    <string name="gamewintext">¡Lo lograste! Wow.</string>
+    <string name="newscore">\n\nEsa es su nueva puntuación.</string>
+    <string name="warning">¡Atención!</string>
+    <string name="resettext">Esto reiniciará el juego en curso. ¿Está seguro que desea continuar?</string>
+    <string name="stattext">Estadística</string>
+    <string name="market">No parecen tener la tienda de Google Play instalado</string>
+    <string name="save">Guardar…</string>
+    <string name="load">Carga…</string>
+
+    <string-array name="display">
+        <item>Texto Centrado + Baldosas Redondeada</item>
+        <item>Texto Centrado + Baldosas Cuadrado</item>
+        <item>Texto Text + Baldosas Redondeada</item>
+        <item>Texto Text + Baldosas Cuadrado</item>
+        <item>Texto Text + Baldosas Redondeada</item>
+        <item>Texto Text + Baldosas Cuadrado</item>
+        <item>No Texto + Baldosas Redondeada</item>
+        <item>No Texto + Baldosas Cuadrado</item>
+    </string-array>
+
+</resources>

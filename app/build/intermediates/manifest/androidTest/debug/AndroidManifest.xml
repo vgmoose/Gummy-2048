@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vgmoose.gum2048.test">
+
+    <uses-sdk android:minSdkVersion="4" android:targetSdkVersion="19" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="com.vgmoose.gum2048"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for com.vgmoose.gum2048"/>
+</manifest>

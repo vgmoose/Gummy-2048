@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kleverig 2048</string>
+    <string name="dummy_button">Blik</string>
+    <string name="reset_button">Redo</string>
+    <string name="size_button">Maat</string>
+    <string name="hs_button">Stats</string>
+    <string name="dismiss">Ontslaan</string>
+    <string name="showad">verbergen advertentie</string>
+    <string name="review">beoordelen app</string>
+    <string name="gameover">Game Over</string>
+    <string name="gameovertext">Er zijn niet meer mogelijk bewegingen die kunnen worden gemaakt.</string>
+    <string name="congrats">Gefeliciteerd</string>
+    <string name="gamewintext">Het is je gelukt! Wow.</string>
+    <string name="newscore">\n\nDat is een nieuwe high score!</string>
+    <string name="warning">waarschuwing!</string>
+    <string name="resettext">Dit zal het spel opnieuw aan de gang. Weet u zeker dat u wilt doorgaan?</string>
+    <string name="stattext">statistiek</string>
+    <string name="market">You don\'t appear to have the Google Play store installed</string>
+    <string name="save">Save…</string>
+    <string name="load">Load…</string>
+
+    <string-array name="display">
+        <item>Mode 1</item>
+        <item>Mode 2</item>
+        <item>Mode 3</item>
+        <item>Mode 4</item>
+        <item>Mode 5</item>
+        <item>Mode 6</item>
+        <item>Mode 7</item>
+        <item>Mode 8</item>
+    </string-array>
+
+</resources>

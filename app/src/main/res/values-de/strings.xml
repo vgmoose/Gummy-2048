@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gummy 2048</string>
+<string name="dummy_button">anzeigen</string>
+<string name="reset_button">Redo</string>
+ <string name="size_button">Größe</string>
+   <string name="hs_button">Statistik</string>
+     <string name="dismiss">entlassen</string>
+      <string name="showad">Ad ausblenden</string>
+      <string name="review">bewerten App</string>
+    <string name="gameover">Game Over</string>
+<string name="gameovertext">Es sind keine Züge mehr möglich, die gemacht werden können.</string>
+    <string name="congrats">Gratulation</string>
+ <string name="gamewintext">Sie haben es geschafft! Wow.</string>
+    <string name="newscore">Das ist eine neue High-Score!</string>
+     <string name="warning">Achtung!</string>
+   <string name="resettext">Dadurch wird das Spiel in Arbeit neu zu starten. Sind Sie sicher, dass Sie fortfahren möchten?</string>
+    <string name="stattext">Statistiken</string>
+
+
+
+    <string-array name="display">
+        <item>Mode 1</item>
+        <item>Mode 2</item>
+        <item>Mode 3</item>
+        <item>Mode 4</item>
+        <item>Mode 5</item>
+        <item>Mode 6</item>
+        <item>Mode 7</item>
+        <item>Mode 8</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+         <string name="app_name">거미 2048</string>
+<string name="dummy_button">전망</string>
+<string name="reset_button">다시 실행</string>
+ <string name="size_button">크기</string>
+   <string name="hs_button">통계</string>
+     <string name="dismiss">기각</string>
+      <string name="showad">숨기기 광고</string>
+      <string name="review">평가 앱</string>
+    <string name="gameover">게임 오버</string>
+<string name="gameovertext">할 수있다 더 이상 가능한 이동이 없습니다.</string>
+    <string name="congrats">축하 해요</string>
+ <string name="gamewintext">당신은 그것을했다! 와우.</string>
+    <string name="newscore">즉, 새로운 높은 점수입니다!</string>
+     <string name="warning">경고!</string>
+   <string name="resettext">이것은 진행중인 게임을 다시 시작합니다. 당신은 당신이 계속 하시겠습니까?</string>
+    <string name="stattext">통계</string>
+
+
+
+    <string-array name="display">
+        <item>Mode 1</item>
+        <item>Mode 2</item>
+        <item>Mode 3</item>
+        <item>Mode 4</item>
+        <item>Mode 5</item>
+        <item>Mode 6</item>
+        <item>Mode 7</item>
+        <item>Mode 8</item>
+    </string-array>
+
+</resources>

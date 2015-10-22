@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gommeux 2048</string>
+    <string name="dummy_button">Mode</string>
+    <string name="reset_button">Refaire</string>
+    <string name="size_button">Taille</string>
+    <string name="hs_button">Statis</string>
+    <string name="dismiss">Oui</string>
+    <string name="showad">Masquer Annonce</string>
+    <string name="review">Aplicación</string>
+    <string name="gameover">Game Over</string>
+    <string name="gameovertext">Il n\'y a pas de mouvements possibles qui peuvent être faites.</string>
+    <string name="congrats">Félicitations!</string>
+    <string name="gamewintext">Vous l\'avez fait! Wow.</string>
+    <string name="newscore">\n\nC\'est un nouveau score élevé.</string>
+    <string name="warning">Attention!</string>
+    <string name="resettext">Cela va redémarrer le jeu en cours. Etes-vous sûr de vouloir continuer?</string>
+    <string name="stattext">Statistiques</string>
+    <string name="market">Ne semblent pas avoir la boutique installé Google Play</string>
+    <string name="save">Sauver…</string>
+    <string name="load">Chargement…</string>
+
+    <string-array name="display">
+        <item>Mode 1</item>
+        <item>Mode 2</item>
+        <item>Mode 3</item>
+        <item>Mode 4</item>
+        <item>Mode 5</item>
+        <item>Mode 6</item>
+        <item>Mode 7</item>
+        <item>Mode 8</item>
+    </string-array>
+
+</resources>

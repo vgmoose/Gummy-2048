@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gummy 2048</string>
+    <string name="dummy_button">View</string>
+    <string name="reset_button">Redo</string>
+    <string name="size_button">Size</string>
+    <string name="hs_button">Stats</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="showad">Hide Ad</string>
+    <string name="review">Rate App</string>
+    <string name="gameover">Game Over</string>
+    <string name="gameovertext">There are no more possible moves that can be made.</string>
+    <string name="congrats">Congratulations</string>
+    <string name="gamewintext">You did it! Wow.</string>
+    <string name="newscore">\n\nThat\'s a new high score!</string>
+    <string name="warning">Warning!</string>
+    <string name="resettext">This will restart the game in progress. Are you sure you want to continue?</string>
+    <string name="stattext">Statistics</string>
+    <string name="market">You don\'t appear to have the Google Play store installed</string>
+    <string name="save">Save…</string>
+    <string name="load">Load…</string>
+
+    <string-array name="display">
+        <item>Center Text + Rounded Tile</item>
+        <item>Center Text + Square Tile</item>
+        <item>Corner Text + Rounded Tile</item>
+        <item>Corner Text + Square Tile</item>
+        <item>Small Text + Rounded Tile</item>
+        <item>Small Text + Square Tile</item>
+        <item>No Text + Rounded Tile</item>
+        <item>No Text + Square Tile</item>
+    </string-array>
+
+</resources>

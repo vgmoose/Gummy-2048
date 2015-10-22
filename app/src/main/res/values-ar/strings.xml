@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+         <string name="app_name">غائر 2048 </string>
+<string name="dummy_button">رأي </string>
+<string name="reset_button">فعل ثانية </string>
+ <string name="size_button">حجم </string>
+   <string name="hs_button">احصائيات </string>
+     <string name="dismiss">رفض </string>
+      <string name="showad">اخفاء الإعلان </string>
+      <string name="review">معدل التطبيق </string>
+    <string name="gameover">GAME OVER </string>
+<string name="gameovertext">لا توجد تحركات أكثر المحتملة التي يمكن القيام بها. </string>
+    <string name="congrats">تهنئة </string>
+ <string name="gamewintext">يمكنك فعل ذلك! نجاح باهر. </string>
+    <string name="newscore">هذا هو على درجة عالية جديدة! </string>
+     <string name="warning">تحذير! </string>
+   <string name="resettext">وهذه إعادة تشغيل اللعبة في التقدم. هل أنت متأكد أنك تريد المتابعة؟ </string>
+    <string name="stattext">إحصائيات</string>
+
+
+
+
+    <string-array name="display">
+        <item>Mode 1</item>
+        <item>Mode 2</item>
+        <item>Mode 3</item>
+        <item>Mode 4</item>
+        <item>Mode 5</item>
+        <item>Mode 6</item>
+        <item>Mode 7</item>
+        <item>Mode 8</item>
+    </string-array>
+
+</resources>

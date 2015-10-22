@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">グミ2048</string>
+<string name="dummy_button">ビュー</string>
+<string name="reset_button">やり直す</string>
+ <string name="size_button">サイズ</string>
+   <string name="hs_button">統計</string>
+     <string name="dismiss">退ける</string>
+      <string name="showad">隠す広告</string>
+      <string name="review">レートのApp</string>
+    <string name="gameover">ゲームオーバー</string>
+<string name="gameovertext">することができ、それ以上の可能な動きはありません。</string>
+    <string name="congrats">おめでとうございます</string>
+ <string name="gamewintext">やったね！うわー。</string>
+    <string name="newscore">それは、新たな高得点です！</string>
+     <string name="warning">警告！</string>
+   <string name="resettext">これは進行中のゲームに再起動します。あなたが継続してもよろしいですか？</string>
+    <string name="stattext">統計</string>
+
+    <string-array name="display">
+        <item>Mode 1</item>
+        <item>Mode 2</item>
+        <item>Mode 3</item>
+        <item>Mode 4</item>
+        <item>Mode 5</item>
+        <item>Mode 6</item>
+        <item>Mode 7</item>
+        <item>Mode 8</item>
+    </string-array>
+
+</resources>

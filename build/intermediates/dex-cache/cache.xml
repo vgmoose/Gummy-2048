@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ricky/AndroidStudioProjects/Gummy-2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/ricky/AndroidStudioProjects/Gummy-2048/app/build/intermediates/pre-dexed/debug/classes-0f4593f965d010d2a1bcc0a458c87c7295dc1f03.jar" />
+    </item>
+    <item
+        jar="/home/ricky/AndroidStudioProjects/Gummy-2048/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/ricky/AndroidStudioProjects/Gummy-2048/app/build/intermediates/pre-dexed/debug/classes-deef310c5fd0640627a4b5dc3d2ba18ead870601.jar" />
+    </item>
+    <item
+        jar="/home/ricky/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/ricky/AndroidStudioProjects/Gummy-2048/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-d5ab41ff0c282d1194913823f17c0e20841878de.jar" />
+    </item>
+    <item
+        jar="/home/ricky/AndroidStudioProjects/Gummy-2048/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/ricky/AndroidStudioProjects/Gummy-2048/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-ecba00728dd92c51bb4ec779f985661dd7802bb1.jar" />
+    </item>
+    <item
+        jar="/home/ricky/AndroidStudioProjects/Gummy-2048/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/ricky/AndroidStudioProjects/Gummy-2048/app/build/intermediates/pre-dexed/debug/classes-3b487f8c051efd9710699bdad149f87c4b190094.jar" />
+    </item>
+    <item
+        jar="/home/ricky/AndroidStudioProjects/Gummy-2048/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b">
+        <dex dex="/home/ricky/AndroidStudioProjects/Gummy-2048/app/build/intermediates/pre-dexed/debug/classes-e387fa73ab848b0f7a93d2bff64634ce6831fc30.jar" />
+    </item>
+    <item
+        jar="/home/ricky/AndroidStudioProjects/Gummy-2048/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/home/ricky/AndroidStudioProjects/Gummy-2048/app/build/intermediates/pre-dexed/debug/classes-c379fe85875958e33fb0a77f78e2d7fe3e4120d2.jar" />
+    </item>
+
+</items>

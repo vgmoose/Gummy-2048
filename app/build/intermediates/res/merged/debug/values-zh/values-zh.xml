@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ricky/AndroidStudioProjects/Gummy-2048/app/src/main/res/values-zh/strings.xml -->
+    <eat-comment/>
+    <string-array name="display">
+        <item>Mode 1</item>
+        <item>Mode 2</item>
+        <item>Mode 3</item>
+        <item>Mode 4</item>
+        <item>Mode 5</item>
+        <item>Mode 6</item>
+        <item>Mode 7</item>
+        <item>Mode 8</item>
+    </string-array>
+    <string name="app_name">2048软糖</string>
+    <string name="congrats">祝贺您</string>
+    <string name="dismiss">解雇</string>
+    <string name="dummy_button">视图</string>
+    <string name="gameover">游戏结束</string>
+    <string name="gameovertext">不存在，可以作出更多的可能移动。</string>
+    <string name="gamewintext">你做到了！哇。</string>
+    <string name="hs_button">统计</string>
+    <string name="newscore">这是一个新的高分！</string>
+    <string name="reset_button">重做</string>
+    <string name="resettext">这将重新启动游戏进行中。您确定要继续吗？</string>
+    <string name="review">率应用</string>
+    <string name="showad">隐藏广告</string>
+    <string name="size_button">大小</string>
+    <string name="stattext">统计</string>
+    <string name="warning">警告！</string>
+</resources>
